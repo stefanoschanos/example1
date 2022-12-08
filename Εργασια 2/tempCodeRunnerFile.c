@@ -1,0 +1,1 @@
+permutationCoeff1
